@@ -7,7 +7,7 @@
 - I have 3.5 years of experience in Python, 3 years in Go, and I'm currently learning Rust.
 - I am working and learning in the field of **Observability**.
 
-## Where Do I Learn?
+## Where Do I Acquire Knowledge?
 - Fundamentals: Books, blogs, documentation, and communities (Slack).
 - Bleeding edge: Papers.
 
