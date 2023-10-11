@@ -2,6 +2,19 @@
 
 ![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) [![](https://img.shields.io/badge/scheduler-trello-blueviolet)](https://trello.com/b/7Yru9uvH) ![](https://img.shields.io/badge/language-Go-informational) [![](https://img.shields.io/badge/Kubernetes-PRs-blue)](https://prow.k8s.io/pr?query=is%3Apr%20author%3Ajiekun)
 
+## About Me
+- I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
+- I have 3.5 years of experience in Python, 3 years in Go, and I'm currently learning Rust.
+- I am working and learning in the field of **Observability**.
+
+## Where Do I Learn?
+- Fundamentals: Books, blogs, documentation, and communities (Slack).
+- Bleeding edge: Papers.
+
+## Recent Goals
+- Speaking about my observability experience at KubeCon in Europe or North America.
+- Writing a paper on Observability-related topics.
+
 ## My Badges
 [![](speaker-kubecon-cloudnativecon-open-source-summit-c_300x300.png)](https://www.credly.com/badges/bf1b7f7b-af3f-4cb4-8a21-514ca3c5b106/public_url)
 
