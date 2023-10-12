@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Zhu Jiekun</h1>
 
-![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) [![](https://img.shields.io/badge/scheduler-trello-blueviolet)](https://trello.com/b/7Yru9uvH) ![](https://img.shields.io/badge/language-Go-informational)
+![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) [![](https://img.shields.io/badge/scheduler-trello-blueviolet)](https://trello.com/b/7Yru9uvH) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat)
 
 ## About Me
 - I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
