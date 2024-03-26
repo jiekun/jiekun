@@ -12,13 +12,14 @@
 - Bleeding edge: Papers.
 
 ## Recent Goals
-- Speaking about my observability experience at KubeCon in Europe or North America.
+- ~Speaking about my observability experience at KubeCon in Europe or North America.~
 - Writing a paper on Observability-related topics.
 
 ## My Badges
 [![](speaker-kubecon-cloudnativecon-open-source-summit-c_300x300.png)](https://www.credly.com/badges/bf1b7f7b-af3f-4cb4-8a21-514ca3c5b106/public_url)
 
 ## My Talks
+- **TTChat’s Story: Connect Metrics, Logs and Traces with eBPF**, 19 Mar. 2024 | [Slides](https://docs.google.com/presentation/d/1KHC2eZWOac6P8Vv8u6_u6MesBcAx7Ci_k1t9zLrCCIU/edit?usp=sharing) | [Blog](https://jiekun.dev/posts/kubecon-eu-2024-ii/) | Video
 - **Balancing Cost and Quality in OpenTelemetry: An Evaluation of Sampling Policies**, 27 Sept. 2023 | [Slides](https://docs.google.com/presentation/d/16PHf3XxZBuLjD0b07SMJmk0yfFAHB2jJpMPGgONngRE/edit?usp=sharing) | [Blog](https://jiekun.dev/posts/kubecon-2023-otel-sampling/) | [Video](https://youtu.be/hDLQi6HeW0k?si=kCjX4y4BCRSswdaM)
 
 ## Who could become the maintainer?
