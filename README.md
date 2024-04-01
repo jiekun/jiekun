@@ -18,6 +18,7 @@
 ## My Badges
 [![](speaker-kubecon-cloudnativecon-open-source-summit-c_300x300.png)](https://www.credly.com/badges/bf1b7f7b-af3f-4cb4-8a21-514ca3c5b106/public_url)
 
+
 ## My Talks
 - KubeCon | **TTChat’s Story: Connect Metrics, Logs and Traces with eBPF**, Mar. 2024 | [Slides](https://docs.google.com/presentation/d/1KHC2eZWOac6P8Vv8u6_u6MesBcAx7Ci_k1t9zLrCCIU/edit?usp=sharing) | [Blog](https://jiekun.dev/posts/kubecon-eu-2024-ii/) | [Video](https://youtu.be/Y9mCmFDijGQ?si=jv2pVuWYJ5mUIdhx)
 - KubeCon | **Balancing Cost and Quality in OpenTelemetry: An Evaluation of Sampling Policies**, Sept. 2023 | [Slides](https://docs.google.com/presentation/d/16PHf3XxZBuLjD0b07SMJmk0yfFAHB2jJpMPGgONngRE/edit?usp=sharing) | [Blog](https://jiekun.dev/posts/kubecon-2023-otel-sampling/) | [Video](https://youtu.be/hDLQi6HeW0k?si=kCjX4y4BCRSswdaM) 
@@ -27,4 +28,4 @@
 - [1] Maintainer 的标准. (2022, September 12). 夜天之书. [https://www.tisonkun.org/2022/09/12/maintainer-criterions/](https://www.tisonkun.org/2022/09/12/maintainer-criterions/)
 
 ## My VLog 👋
-[![](https://github.com/jiekun/jiekun/assets/30280396/32bf8280-cfb9-4b3f-b9fa-b5930058d4ae)](https://youtu.be/kltkbn5TjD0?si=ayVNLl3v2TBPwc-Z)
+[![](https://github.com/jiekun/jiekun/assets/30280396/e0bad522-cb73-423b-9742-82eef95797df)](https://youtu.be/kltkbn5TjD0?si=ayVNLl3v2TBPwc-Z)
