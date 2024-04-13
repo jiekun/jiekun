@@ -17,7 +17,7 @@
 - Writing a paper on Observability-related topics.
 
 ## Recent Blogs
-- Beyond Questions: Write-Ahead Logging in TSDB, Apr. 2024
+- **Beyond Questions: Write-Ahead Logging in TSDB**, Apr. 2024
 - Beyond Questions: High Cardinality and Data Structure in TSDB
 - Beyond Questions: Optimizing Go Code Performance
 
