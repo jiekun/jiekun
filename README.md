@@ -13,6 +13,7 @@
 
 ## Recent Goals
 - ~Speaking about my observability experience at KubeCon in Europe or North America.~
+- Dive into the source code of metrics monitoring system projects like Prometheus, Thanos, and VictoriaMetrics.
 - Writing a paper on Observability-related topics.
 
 ## My Badges
