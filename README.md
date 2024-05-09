@@ -17,9 +17,7 @@
 - Writing a paper on Observability-related topics.
 
 ## Recent Blogs
-- **Beyond Questions: Write-Ahead Logging in TSDB**, Apr. 2024
-- Beyond Questions: High Cardinality and Data Structure in TSDB
-- Beyond Questions: Optimizing Go Code Performance
+- [Persistent Data Structures in VictoriaMetrics (Part 1): vmagent](https://jiekun.dev/posts/vmagent-data-structures/), May. 2024
 
 ## My Badges
 [![](speaker-kubecon-cloudnativecon-open-source-summit-c_300x300.png)](https://www.credly.com/badges/bf1b7f7b-af3f-4cb4-8a21-514ca3c5b106/public_url)
