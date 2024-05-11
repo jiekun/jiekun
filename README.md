@@ -5,7 +5,7 @@
 ## About Me
 - I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
 - I have 3.5 years of experience in **Python**, 3 years in **Go**.
-- I am currently working and learning in the field of **Observability**, with a focus on **OpenTelemetry**, **Prometheus**, and **eBPF**.
+- I am currently working and learning in the field of **Observability**, with a focus on **OpenTelemetry**, **Prometheus**, and **VictoriaMetrics**.
 
 ## Where Do I Acquire Knowledge?
 - Fundamentals: Books, blogs, documentation, and communities (Slack).
