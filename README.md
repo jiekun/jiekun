@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat) [![](https://img.shields.io/badge/resume-cv.jiekun.dev-orange)](https://cv.jiekun.dev)
 
+![ezgif-7-4e2f2420dd](https://github.com/jiekun/jiekun/assets/30280396/882cd7bd-9646-4d6f-af1a-b170a440983b)
+
 ## About Me
 - I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
 - I have 3.5 years of experience in **Python**, 3 years in **Go**.
