@@ -19,6 +19,7 @@
 - Writing a paper on Observability-related topics.
 
 ## Recent Blogs
+- [Extending Go Application with Interface: Implementing Redis Caching for VictoriaMetrics](https://jiekun.dev/posts/extending-go-application-with-interface/), June. 2024
 - [Persistent Data Structures in VictoriaMetrics (Part 2): vmselect](https://jiekun.dev/posts/vmselect-data-structures/), May. 2024
 - [Persistent Data Structures in VictoriaMetrics (Part 1): vmagent](https://jiekun.dev/posts/vmagent-data-structures/), May. 2024
 
