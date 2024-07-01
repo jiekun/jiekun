@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat) [![](https://img.shields.io/badge/resume-cv.jiekun.dev-orange)](https://cv.jiekun.dev)
 
-![ezgif-1-90a6ed0e3f](https://github.com/jiekun/jiekun/assets/30280396/8ca7437e-4de9-48cc-b5a9-ea72a265b815)
+![](https://github.com/jiekun/jiekun/assets/30280396/8838b561-a090-4c22-9dec-484ce7ac2588)
 
 ## About Me
 - I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
