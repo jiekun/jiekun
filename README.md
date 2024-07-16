@@ -1,3 +1,5 @@
+![](https://github.com/user-attachments/assets/f2496363-8684-4a39-91eb-4f9b78f48069)
+
 <h2 align="center">Hi 👋, I'm Zhu Jiekun</h1>
 
 ![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat) [![](https://img.shields.io/badge/resume-cv.jiekun.dev-orange)](https://cv.jiekun.dev)
