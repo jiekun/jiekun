@@ -4,7 +4,12 @@
 
 ![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat) [![](https://img.shields.io/badge/resume-cv.jiekun.dev-orange)](https://cv.jiekun.dev)
 
-![](https://github.com/jiekun/jiekun/assets/30280396/8838b561-a090-4c22-9dec-484ce7ac2588)
+<!-- ![](https://github.com/jiekun/jiekun/assets/30280396/8838b561-a090-4c22-9dec-484ce7ac2588) -->
+
+## Looking for VictoriaMetrics Use Case
+If you are using VictoriaMetrics and **willing to share your story at conferences** such as **KubeCon + CloudNativeCon**, **Observability Day**, **PromCon**, etc., please contact me.
+
+我正在寻找 VictoriaMetrics 在各种场景的使用案例，如果你正在使用 VictoriaMetrics 并且愿意在 KubeCon + CloudNativeCon、Observability Day、PromCon 等会议分享你的故事，欢迎联系我，非常乐意在 Call For Proposals（CFP）等各个环节提供支持。
 
 ## About Me
 - I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
