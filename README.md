@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Zhu Jiekun</h1>
 
-![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat) [![](https://img.shields.io/badge/resume-cv.jiekun.dev-orange)](https://cv.jiekun.dev)
+![](https://img.shields.io/badge/wechat-LearnOTel-brightgreen) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat)
 
 <!-- ![](https://github.com/jiekun/jiekun/assets/30280396/8838b561-a090-4c22-9dec-484ce7ac2588) -->
 
@@ -14,7 +14,7 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 ## About Me
 - I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
 - I have 3.5 years of experience in **Python**, 3 years in **Go**.
-- I am currently working and learning in the field of **Observability**, with a focus on **OpenTelemetry**, **Prometheus**, and **VictoriaMetrics**.
+- I am currently working and learning in the field of **Observability**, with a focus on **VictoriaMetrics**.
 
 ## Where Do I Acquire Knowledge?
 - Fundamentals: Books, blogs, documentation, and communities (Slack).
