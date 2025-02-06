@@ -26,6 +26,7 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 - Writing a paper on Observability-related topics.
 
 ## Recent Blogs
+- [OpenTelemetry, Prometheus, and More: Which Is Better for Metrics Collection and Propagation?](https://victoriametrics.com/blog/opentelemetry-prometheus-and-more/), Feb. 2025
 - [Community Question: High Churn Rate Without New Time Series?](https://victoriametrics.com/blog/churn-rate-in-victoriametrics/), Sep. 2024
 - [Extending Go Application with Interface: Implementing Redis Caching for VictoriaMetrics](https://jiekun.dev/posts/extending-go-application-with-interface/), June. 2024
 - [Persistent Data Structures in VictoriaMetrics (Part 2): vmselect](https://jiekun.dev/posts/vmselect-data-structures/), May. 2024
