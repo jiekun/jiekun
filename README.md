@@ -1,10 +1,14 @@
 ![](https://github.com/user-attachments/assets/f2496363-8684-4a39-91eb-4f9b78f48069)
 
 <h2 align="center">Hi 👋, I'm Zhu Jiekun / 朱杰坤</h1>
+<p align="center">
+<img width="120" height="120" alt="LS20251003144729" src="https://github.com/user-attachments/assets/0581fb63-f0f4-44b6-a248-a78337c7344a" />
 
 ![](https://img.shields.io/badge/wechat-LearnVictoriaMetrics-brightgreen) ![](https://img.shields.io/badge/language-Go-informational) ![](https://komarev.com/ghpvc/?username=jiekun&style=flat)
 
 <!-- ![](https://github.com/jiekun/jiekun/assets/30280396/8838b561-a090-4c22-9dec-484ce7ac2588) -->
+
+</p>
 
 ## Looking for VictoriaMetrics Use Case
 If you are using VictoriaMetrics and **willing to share your story at conferences** such as **KubeCon + CloudNativeCon**, **Observability Day**, **PromCon**, etc., please contact me.
