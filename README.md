@@ -27,11 +27,13 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 - [Extending Go Application with Interface: Implementing Redis Caching for VictoriaMetrics](https://jiekun.dev/posts/extending-go-application-with-interface/), June. 2024
 
 ## Public Events
-- Observability Day Europe 2025 (KubeCon + CloudNativeCon Europe 2025 CNCF-hosted Co-located Event)
-  - [Program Committee Member](https://www.credly.com/badges/4b6c0dcd-1ce9-459b-895a-2aacfcf47231)
-- KubeCon + CloudNativeCon Europe 2025
-  - [Program Committee Member](https://www.credly.com/badges/42889f73-f095-44ea-824e-12930053a366)
+- Open Source Summit Japan 2025
+  - Co-speaker | **Bilibili’s New Architecture for Monitoring Metrics Storage**, Dec. 2025
 - Observability Day Europe 2024 (KubeCon + CloudNativeCon Europe 2024 CNCF-hosted Co-located Event)
   - Speaker | **TTChat’s Story: Connect Metrics, Logs and Traces with eBPF**, Mar. 2024 | [Slides](https://docs.google.com/presentation/d/1KHC2eZWOac6P8Vv8u6_u6MesBcAx7Ci_k1t9zLrCCIU/edit?usp=sharing) | [Blog](https://jiekun.dev/posts/kubecon-eu-2024-ii/) | [Video](https://youtu.be/Y9mCmFDijGQ?si=jv2pVuWYJ5mUIdhx)
 - KubeCon + CloudNativeCon + Open Source Summit China 2023
   - [Speaker](https://www.credly.com/badges/bf1b7f7b-af3f-4cb4-8a21-514ca3c5b106) | **Balancing Cost and Quality in OpenTelemetry: An Evaluation of Sampling Policies**, Sept. 2023 | [Slides](https://docs.google.com/presentation/d/16PHf3XxZBuLjD0b07SMJmk0yfFAHB2jJpMPGgONngRE/edit?usp=sharing) | [Blog](https://jiekun.dev/posts/kubecon-2023-otel-sampling/) | [Video](https://youtu.be/hDLQi6HeW0k?si=kCjX4y4BCRSswdaM)
+- Program Committee Member
+  - [KubeCon + CloudNativeCon North America 2025](https://www.credly.com/badges/67134b6d-b56c-46c7-8312-aa956df17234)
+  - [Observability Day Europe 2025](https://www.credly.com/badges/4b6c0dcd-1ce9-459b-895a-2aacfcf47231)
+  - [KubeCon + CloudNativeCon Europe 2025](https://www.credly.com/badges/42889f73-f095-44ea-824e-12930053a366)
