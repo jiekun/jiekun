@@ -21,6 +21,7 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 - I am currently working and learning in the field of **Observability**, with a focus on **VictoriaMetrics**.
 
 ## Recent Blogs
+- [Discarding gRPC-Go: The Story Behind OTLP/gRPC Support in VictoriaTraces](https://victoriametrics.com/blog/opentelemetry-without-grpc-go/), Oct. 2025
 - [Developer's Note: Research on Distributed Tracing, Comparing With Tempo and ClickHouse](https://victoriametrics.com/blog/dev-note-distributed-tracing-with-victorialogs/), Jun. 2025
 - [OpenTelemetry, Prometheus, and More: Which Is Better for Metrics Collection and Propagation?](https://victoriametrics.com/blog/opentelemetry-prometheus-and-more/), Feb. 2025
 - [Community Question: High Churn Rate Without New Time Series?](https://victoriametrics.com/blog/churn-rate-in-victoriametrics/), Sep. 2024
