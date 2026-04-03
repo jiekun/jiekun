@@ -11,7 +11,7 @@
 </p>
 
 ## Looking for VictoriaMetrics Use Case
-If you are using VictoriaMetrics and **willing to share your story at conferences** such as **KubeCon + CloudNativeCon**, **Observability Day**, **PromCon**, etc., please contact me.
+If you are using VictoriaMetrics and **willing to share your story at conferences** such as **KubeCon + CloudNativeCon**, **Observability Day**, **PromCon**, etc., we're here to help. Please feel free to contact me via [mail](mailto:jiekun@victoriametrics.com) or the team via [Contact Us](https://victoriametrics.com/contact-us/).
 
 我正在寻找 VictoriaMetrics 在各种场景的使用案例，如果你正在使用 VictoriaMetrics 并且愿意在 KubeCon + CloudNativeCon、Observability Day、PromCon 等会议分享你的故事，欢迎联系我，非常乐意在 Call For Proposals（CFP）等各个环节提供支持。
 
