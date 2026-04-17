@@ -21,6 +21,7 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 - I am currently working and learning in the field of **Observability**, with a focus on **VictoriaMetrics**.
 
 ## Recent Blogs
+- [VictoriaMetrics at KubeCon: Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling](https://victoriametrics.com/blog/kubecon-eu-2026-sampling/), Apr. 2026
 - [Discarding gRPC-Go: The Story Behind OTLP/gRPC Support in VictoriaTraces](https://victoriametrics.com/blog/opentelemetry-without-grpc-go/), Oct. 2025
 - [Developer's Note: Research on Distributed Tracing, Comparing With Tempo and ClickHouse](https://victoriametrics.com/blog/dev-note-distributed-tracing-with-victorialogs/), Jun. 2025
 - [OpenTelemetry, Prometheus, and More: Which Is Better for Metrics Collection and Propagation?](https://victoriametrics.com/blog/opentelemetry-prometheus-and-more/), Feb. 2025
@@ -28,6 +29,8 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 - [Extending Go Application with Interface: Implementing Redis Caching for VictoriaMetrics](https://jiekun.dev/posts/extending-go-application-with-interface/), June. 2024
 
 ## Public Events
+- KubeCon + CloudNativeCon Europe 2026
+  - [Speaker](https://www.credly.com/badges/0df2f79f-c55c-4b90-bfa8-5beacf1c0673) | **Retroactive Sampling with OpenTelemetry: Cut 90% Distributed Tracing Bandwidth Usage**, Mar. 2026 | [Slides](https://docs.google.com/presentation/d/1xED_HdLZLN7s7gfZr1c_VLPEr0R_WPYeF2wfZ7UD3nM/edit) | [Blog](https://victoriametrics.com/blog/kubecon-eu-2026-sampling/) | [Video](https://www.youtube.com/watch?v=ehKzt_kGEeM)
 - Open Source Summit Japan 2025
   - Co-speaker | **Bilibili’s New Architecture for Monitoring Metrics Storage**, Dec. 2025
 - Observability Day Europe 2024 (KubeCon + CloudNativeCon Europe 2024 CNCF-hosted Co-located Event)
