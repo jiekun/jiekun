@@ -30,7 +30,7 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 
 ## Public Events
 - KubeCon + CloudNativeCon Europe 2026
-  - [Speaker](https://www.credly.com/badges/0df2f79f-c55c-4b90-bfa8-5beacf1c0673) | **Retroactive Sampling with OpenTelemetry: Cut 90% Distributed Tracing Bandwidth Usage**, Mar. 2026 | [Slides](https://docs.google.com/presentation/d/1xED_HdLZLN7s7gfZr1c_VLPEr0R_WPYeF2wfZ7UD3nM/edit) | [Blog](https://victoriametrics.com/blog/kubecon-eu-2026-sampling/) | [Video](https://www.youtube.com/watch?v=ehKzt_kGEeM)
+  - [Co-speaker](https://www.credly.com/badges/0df2f79f-c55c-4b90-bfa8-5beacf1c0673) | **Retroactive Sampling with OpenTelemetry: Cut 90% Distributed Tracing Bandwidth Usage**, Mar. 2026 | [Slides](https://docs.google.com/presentation/d/1xED_HdLZLN7s7gfZr1c_VLPEr0R_WPYeF2wfZ7UD3nM/edit) | [Blog](https://victoriametrics.com/blog/kubecon-eu-2026-sampling/) | [Video](https://www.youtube.com/watch?v=ehKzt_kGEeM)
 - Open Source Summit Japan 2025
   - Co-speaker | **Bilibili’s New Architecture for Monitoring Metrics Storage**, Dec. 2025
 - Observability Day Europe 2024 (KubeCon + CloudNativeCon Europe 2024 CNCF-hosted Co-located Event)
