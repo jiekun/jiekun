@@ -17,7 +17,7 @@ If you are using VictoriaMetrics and **willing to share your story at conference
 
 ## About Me
 - I graduated in 2018 with a bachelor's degree in Vehicle Engineering. 
-- I have 3.5 years of experience in **Python**, 4 years in **Go**.
+- I have 3.5 years of experience in **Python**, 5 years in **Go**.
 - I am currently working and learning in the field of **Observability**, with a focus on **VictoriaMetrics**.
 
 ## Recent Blogs
